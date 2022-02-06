@@ -1,7 +1,7 @@
 # my-portfolio
 
 ## purpose
-This websites that helps those who want to increase and enhance the quality of their website so that there is more visibility online and raise the number of people 
+my portfolio 
 
 
 
@@ -10,10 +10,10 @@ This websites that helps those who want to increase and enhance the quality of t
 *CSS
 
 ## wesite
-https://julie-t87.github.io/code-refactor/
+https://julie-t87.github.io/my-portfolio/
 
-![readme](https://user-images.githubusercontent.com/94236932/151681116-89951bc1-d412-4c0b-b5c3-a9f17bab76a7.png)
+![my-portfolio](https://user-images.githubusercontent.com/94236932/152666541-99b07fb4-441e-44f2-9d2e-2fe16017c6b9.png)
 
 
 ## contribution
-Made with ❤️️ by Horiseon
+Made with ❤️️ by Julie Taukei
