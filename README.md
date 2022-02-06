@@ -12,7 +12,8 @@ my portfolio
 ## wesite
 https://julie-t87.github.io/my-portfolio/
 
-!![my-portfolio](https://user-images.githubusercontent.com/94236932/152697016-82923442-2648-427f-b731-5e082ba93bcb.png)
+![my-portfolio](https://user-images.githubusercontent.com/94236932/152697338-2ace9658-e0c8-45ec-81b3-8a12f677854d.png)
+
 
 
 
