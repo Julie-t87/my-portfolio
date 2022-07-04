@@ -71,6 +71,12 @@ footer{
     height:100%;
     opacity: 0.2;
 }
+
+.project3{
+    width:50%;
+    height:100%;
+    opacity: 0.2;
+}
 .projects{
     width: 100%;
     display:flex;
@@ -100,3 +106,4 @@ footer{
     left:20px;
     font-size: smedium;
 }
+
